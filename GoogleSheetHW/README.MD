@@ -1,0 +1,4 @@
+# GoogleSheetHW
+
+## แนวคิด
+
