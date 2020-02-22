@@ -1,0 +1,16 @@
+stm32wbxx_ll_bus.h:508:22:LL_AHB2_GRP1_EnableClock	24	static
+stm32wbxx_ll_bus.h:894:22:LL_APB1_GRP1_EnableClock	24	static
+stm32wbxx_ll_bus.h:989:22:LL_APB1_GRP1_DisableClock	16	static
+custom_bus.c:91:9:BSP_I2C1_Init	16	static
+custom_bus.c:139:9:BSP_I2C1_DeInit	16	static
+custom_bus.c:167:9:BSP_I2C1_IsReady	24	static
+custom_bus.c:188:9:BSP_I2C1_WriteReg	48	static
+custom_bus.c:214:10:BSP_I2C1_ReadReg	48	static
+custom_bus.c:242:9:BSP_I2C1_WriteReg16	48	static
+custom_bus.c:268:10:BSP_I2C1_ReadReg16	48	static
+custom_bus.c:293:9:BSP_I2C1_Send	32	static
+custom_bus.c:318:9:BSP_I2C1_Recv	32	static
+custom_bus.c:393:9:BSP_GetTick	8	static
+custom_bus.c:399:26:MX_I2C1_Init	24	static
+custom_bus.c:429:13:I2C1_MspInit	40	static
+custom_bus.c:455:13:I2C1_MspDeInit	16	static
